@@ -1,4 +1,6 @@
 ### Editable fields
+Fields as on Infrastructure details and new fields.
+
 #### Application info
 * git_repo - autosuggest with values from config file
 * git_branch - tags from selcted git_repo
